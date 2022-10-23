@@ -11,5 +11,5 @@ MODES = {
     "tls": True
 }
 
-TLS_DOMAIN = "www.google.com"
+TLS_DOMAIN = "varzesh3.com"
 AD_TAG = "92628c2693651edd8be60993a91bb86d"

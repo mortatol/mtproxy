@@ -11,5 +11,5 @@ MODES = {
     "tls": True
 }
 
-TLS_DOMAIN = "yektanet.com"
+TLS_DOMAIN = "nobitex.ir"
 AD_TAG = "92628c2693651edd8be60993a91bb86d"

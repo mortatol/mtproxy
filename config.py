@@ -7,8 +7,8 @@ USERS = {
 
 MODES = {
     "classic": False,
-    "secure": True,
-    "tls": False
+    "secure": False,
+    "tls": True
 }
 
 TLS_DOMAIN = "nobitex.ir"
